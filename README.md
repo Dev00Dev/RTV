@@ -1,1 +1,1 @@
-Il s'agit du dépot publiques des vidéos qui se trouvent sur RodrigueTV. Vous y trouverez l'ensembles des embeds vidéos et leurs classements
+Il s'agit du dépot publique des données qui se trouvent sur RodrigueTV. Cela inclut, les liens embed pour les vidéos non-herbergées, les vidéos, les thumbails et autres. Vous y trouverez l'ensembles des embeds vidéos et leurs classements
