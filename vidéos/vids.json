@@ -2,13 +2,13 @@
   "trending": [
     {
       "id": "trending1",
-      "title": "Top 10 des tendances cette semaine",
-      "channel": "TrendHub",
+      "title": "His Girl Friday",
+      "channel": "RTV Films",
       "verified": true,
-      "views": "2.1M",
-      "duration": "12:34",
-      "thumbnail": "https://example.com/thumb1.jpg",
-      "videoUrl": "https://example.com/videos/video1.mp4",
+      "views": "0",
+      "duration": "01:28:11",
+      "thumbnail": "https://raw.githubusercontent.com/Dev00Dev/RTVdata/4adb497b31e2cffca64e69edfdf5bae1eb17ca2e/miniatures/HisgirlFriday.jpg",
+      "videoUrl": "https://dn720708.ca.archive.org/0/items/HisGirlFriday-1940/CaryGrant-1940-HisGirlFriday.mp4",
       "category": "trending",
       "featured": true
     }
