@@ -23,6 +23,18 @@
       "videoUrl": "https://archive.org/download/NakedMassacre1976/MoviePowderPresentsNakedMassacre.mp4",
       "category": "trending",
       "featured": true
+    },
+    {
+      "id": "music1",
+      "title": "Naked Massacre (Full EN)",
+      "channel": "Denis Héroux",
+      "verified": false,
+      "views": "Age : +16",
+      "duration": "01:25:21",
+      "thumbnail": "https://raw.githubusercontent.com/Dev00Dev/RTVdata/refs/heads/main/miniatures/nakedmovie.png",
+      "videoUrl": "https://archive.org/download/NakedMassacre1976/MoviePowderPresentsNakedMassacre.mp4",
+      "category": "trending",
+      "featured": true
     }
   ]
 }
