@@ -2,10 +2,10 @@
   "trending": [
     {
       "id": "trending1",
-      "title": "His Girl Friday",
+      "title": "His Girl Friday (Full EN)",
       "channel": "RTV Films",
       "verified": true,
-      "views": "0",
+      "views": "Age : +13",
       "duration": "01:28:11",
       "thumbnail": "https://raw.githubusercontent.com/Dev00Dev/RTVdata/4adb497b31e2cffca64e69edfdf5bae1eb17ca2e/miniatures/HisgirlFriday.jpg",
       "videoUrl": "https://dn720708.ca.archive.org/0/items/HisGirlFriday-1940/CaryGrant-1940-HisGirlFriday.mp4",
@@ -16,13 +16,13 @@
   "music": [
     {
       "id": "music1",
-      "title": "Nouveau hit",
-      "channel": "MusicOfficial",
+      "title": "Naked Massacre (Full EN)",
+      "channel": "Denis Héroux",
       "verified": true,
-      "views": "5.2M",
-      "duration": "3:42",
+      "views": "0",
+      "duration": "01:25:21",
       "thumbnail": "https://example.com/thumb2.jpg",
-      "videoUrl": "https://example.com/videos/music1.mp4",
+      "videoUrl": "https://archive.org/download/NakedMassacre1976/MoviePowderPresentsNakedMassacre.mp4",
       "category": "music"
     }
   ]
