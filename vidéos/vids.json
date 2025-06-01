@@ -7,23 +7,24 @@
       "verified": true,
       "views": "Age : +13",
       "duration": "01:28:11",
-      "thumbnail": "",
+      "thumbnail": "https://raw.githubusercontent.com/Dev00Dev/RTVdata/4adb497b31e2cffca64e69edfdf5bae1eb17ca2e/miniatures/HisgirlFriday.jpg",
       "videoUrl": "https://dn720708.ca.archive.org/0/items/HisGirlFriday-1940/CaryGrant-1940-HisGirlFriday.mp4",
       "category": "trending",
       "featured": true
     }
   ],
-  "music": [
+  "trending": [
     {
       "id": "music1",
       "title": "Naked Massacre (Full EN)",
       "channel": "Denis Héroux",
-      "verified": true,
+      "verified": false,
       "views": "Age : +16",
       "duration": "01:25:21",
       "thumbnail": "https://raw.githubusercontent.com/Dev00Dev/RTVdata/refs/heads/main/miniatures/nakedmovie.png",
       "videoUrl": "https://archive.org/download/NakedMassacre1976/MoviePowderPresentsNakedMassacre.mp4",
       "category": "trending"
+      "featured": true
     }
   ]
 }
